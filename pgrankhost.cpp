@@ -45,6 +45,15 @@ int main(int argc, char* argv[]) {
     std::vector<float,aligned_allocator<float>> pr (COUNT);
     std::vector<float,aligned_allocator<float>> new_pr (COUNT);
 
+
+    /*
+
+	this is just a comment to check my changes to the github. and Its really cool to work with the team of such an amazing project lead.
+	
+	*/
+
+
+
 	int count=0;
 	line=88233;
 	while(count<line){
